@@ -1,0 +1,4 @@
+streamlit>=1.30.0
+requests>=2.31.0
+indic-transliteration>=2.3.82
+youtube-transcript-api>=1.2.4
