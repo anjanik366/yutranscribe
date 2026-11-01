@@ -37,11 +37,6 @@ d:\AI\transcribe/
 ├── app.py                 # Pure-Python Streamlit application (UI + InnerTube engine)
 ├── requirements.txt       # Python dependencies (streamlit, requests, indic-transliteration, etc.)
 ├── run.bat                # 1-click Windows launcher (Local or Tunnel mode)
-├── deployment-strategies/ # Comprehensive Cloud Deployment Guides & Decision Matrix
-│   ├── AWS_Deployment.md
-│   ├── Azure_Deployment.md
-│   ├── GCP_Deployment.md
-│   └── Conclusion.md
 ├── content/               # Auto-logged video transcripts (<Video Title>.txt)
 │   ├── .gitkeep
 │   └── <Video Title>.txt
